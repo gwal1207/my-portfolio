@@ -1,0 +1,31 @@
+title: Gregory Wall – Data Analyst
+description: >-
+  Portfolio of Gregory Wall, a junior data analyst focused on solving business challenges through data. 
+  Background in Business Administration and Law. Passionate about analytics, international collaboration, and continuous learning.
+baseurl: "" # geralmente deixado vazio se estiver no domínio raiz
+url: "https://gwal1207.github.io" # substitua pelo seu
+
+# Informações pessoais
+author:
+  name: Gregory Wall
+  email: your.email@example.com
+  location: Brazil
+  languages: Portuguese (native), Spanish, French, English
+
+# Links sociais
+social:
+  linkedin: https://linkedin.com/in/yourprofile
+  github: https://github.com/yourusername
+  email: your.email@example.com
+
+# Tema
+theme: yourusername/minimal-theme # substitua pelo nome do repositório com seu tema minimalista
+
+# Markdown e configurações adicionais
+markdown: kramdown
+highlighter: rouge
+
+# Plugins (se estiver usando Jekyll com GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
