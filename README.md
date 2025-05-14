@@ -1,20 +1,21 @@
 **Welcome to my portfolio!** 
 
 Here, you will find the projects I've worked on as a **Junior Data Analyst**. My focus is on solving real-world business problems using data. This repository showcases my skills in **Power BI**, **SQL**, **Python**, and other data analysis tools.
+**I am currently open to collaborating on projects — even at low or no cost — when they offer opportunities for learning, professional growth, and portfolio development.**
 
 ## Projects
 
-**Data Analysis with Python**
-- Description: A collection of projects where I analyze datasets using Python, focusing on extracting insights and building data-driven solutions.
-- Tools used: Python, Pandas, Matplotlib, Seaborn
-
 **Power BI Dashboards**
 - Description: Interactive dashboards created using Power BI, focused on helping businesses make informed decisions.
-- Tools used: Power BI, DAX, Power Query
+- Tools used: Power BI, DAX, Power Query, Excel
 
 **SQL Projects**
 - Description: SQL queries and database management projects to extract, manipulate, and analyze data efficiently.
 - Tools used: SQL, MySQL, PostgreSQL
+
+**Data Analysis with Python**
+- Description: A collection of projects where I analyze datasets using Python, focusing on extracting insights and building data-driven solutions.
+- Tools used: Python, Pandas, Matplotlib, Seaborn
 
 ## About Me
 
@@ -26,6 +27,6 @@ I am proficient in **Portuguese** (native), **Spanish**, **French**, and **Engli
 
 Feel free to reach out for collaboration or freelance opportunities:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [LinkedIn](www.linkedin.com/in/gregory-a-wall-fagundes-b3b76b91)
 - [Email](mailto:gwfagundes@gmail.com)
 - [Instagram](https://www.instagram.com.br/fagundesgregory)
