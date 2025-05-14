@@ -1,16 +1,31 @@
-## Hi there 👋
+**Welcome to my portfolio!** 
 
-<!--
-**gwal1207/gwal1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here, you will find the projects I've worked on as a **Junior Data Analyst**. My focus is on solving real-world business problems using data. This repository showcases my skills in **Power BI**, **SQL**, **Python**, and other data analysis tools.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data Analysis with Python**
+- Description: A collection of projects where I analyze datasets using Python, focusing on extracting insights and building data-driven solutions.
+- Tools used: Python, Pandas, Matplotlib, Seaborn
+
+**Power BI Dashboards**
+- Description: Interactive dashboards created using Power BI, focused on helping businesses make informed decisions.
+- Tools used: Power BI, DAX, Power Query
+
+**SQL Projects**
+- Description: SQL queries and database management projects to extract, manipulate, and analyze data efficiently.
+- Tools used: SQL, MySQL, PostgreSQL
+
+## About Me
+
+I am a **Junior Data Analyst** with a background in **Business Administration** (PUC Minas) and **Corporate and Tax Law** (UFPR). Currently, I am building a portfolio as a freelancer, applying data analysis to solve business challenges. I am also pursuing an MBA in **Sales and High-Performance Teams** (PUC-RS). My goal is to build an international career in data analytics to engage with diverse cultures and challenge myself, while also achieving fluency in English within 6 months.
+
+I am proficient in **Portuguese** (native), **Spanish**, **French**, and **English**, and I am comfortable communicating in these languages.
+
+## Contact
+
+Feel free to reach out for collaboration or freelance opportunities:
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [Email](mailto:gwfagundes@gmail.com)
+- [Instagram](https://www.instagram.com.br/fagundesgregory)
